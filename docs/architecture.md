@@ -1,4 +1,4 @@
-# Frigora – Arayüz Mimarisi
+# Frigo Trace – Arayüz Mimarisi
 
 Kapsam: yalnızca web arayüzü. Backend ayrı projedir; bu proje yalnızca REST sözleşmesini tüketir.
 

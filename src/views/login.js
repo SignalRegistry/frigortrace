@@ -18,7 +18,7 @@ export async function login(outlet) {
           <div class="login-head">
             <div class="login-logo"><img src="/assets/logo.svg" alt="" width="40" height="40" /></div>
             <div>
-              <div class="login-title">Frigora</div>
+              <div class="login-title">Frigo Trace</div>
               <small class="login-sub">Hesabınıza giriş yapın</small>
             </div>
           </div>
